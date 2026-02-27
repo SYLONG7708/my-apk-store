@@ -1,0 +1,12 @@
+[
+  {
+    "name": "App1",
+    "version": 1,
+    "apk": "https://raw.githubusercontent.com/SYLONG7708/my-apk-store/main/app1.apk"
+  },
+  {
+    "name": "App2",
+    "version": 1,
+    "apk": "https://raw.githubusercontent.com/SYLONG7708/my-apk-store/main/app2.apk"
+  }
+]
